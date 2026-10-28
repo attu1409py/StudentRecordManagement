@@ -1,0 +1,13 @@
+# Java compiled output
+*.class
+
+# Local JDBC dependencies
+lib/*.jar
+auth/*.dll
+
+# Local editor configuration
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
